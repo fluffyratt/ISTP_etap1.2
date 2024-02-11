@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yw4wcEMaBwGKPwsgnYKACO7idoMU21DHgdO5YoS3cz1qdEGn7LM7Can9vwCD9m7c6AikRor+s3TsC2bfQ82RQw==",
+  "dgSpecHash": "vUhztYjbxy+1f6oD8yXq5S9ggy2rUv5DfBIe0j1cfEH5/SmFAiL0Nzn82ngI2q9IakruZszcHhXSkjpC7xggdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\45ksu\\Desktop\\ІСТП\\Етап 1.3\\Flights.WebApplication\\Flights.WebApplication.csproj",
+  "projectFilePath": "C:\\Users\\45ksu\\Desktop\\ІСТП\\Етап 1.2\\Flights.WebApplication\\Flights.WebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\45ksu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\45ksu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
